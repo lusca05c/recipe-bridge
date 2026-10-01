@@ -1,0 +1,10 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+# Força o Git a normalizar todas as quebras de linha para LF ao commitar
+* text=auto
+
+# Garante que scripts do Windows mantenham CRLF se necessário, ou força LF para o Linux
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
