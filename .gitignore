@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### COnfidentials ###
+.agents/
+.context7-key
+.opencode/
+CONTEXT.md
+SETUP.md
